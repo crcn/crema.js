@@ -1,7 +1,5 @@
  
 
-![Alt ebnf diagram](http://i.imgur.com/v1wdO.png)
-
 ## Example
 
 ```javascript
