@@ -6,8 +6,9 @@
 
 ```javascript
 
-var channel = crema('-method=GET authorize');
+var channel = crema('request -method=GET authorize');
 
+console.log(channel.type); //request
 console.log(channel.tags.method); //GET
 console.log(channel.route.paths[0]); //authorize
 
