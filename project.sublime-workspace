@@ -35,7 +35,23 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 232,
+				"buffer_size": 254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bin/build",
+			"settings":
+			{
+				"buffer_size": 54,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/grammar.peg",
+			"settings":
+			{
+				"buffer_size": 659,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +59,15 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 2456,
+				"buffer_size": 2969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin 1z3Qce.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -52,6 +76,22 @@
 			"settings":
 			{
 				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/StringScanner/lib/StringScanner.js",
+			"settings":
+			{
+				"buffer_size": 5143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/parser.js",
+			"settings":
+			{
+				"buffer_size": 28702,
 				"line_ending": "Unix"
 			}
 		}
@@ -136,6 +176,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"channel",
+			".scan",
+			"splitOr",
+			"parseChannel",
 			"auth/token",
 			"_pass",
 			"auth/token",
@@ -187,7 +231,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -234,7 +278,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -273,15 +319,15 @@
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 232,
+						"buffer_size": 254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								84,
-								84
+								171,
+								171
 							]
 						],
 						"settings":
@@ -298,32 +344,111 @@
 				},
 				{
 					"buffer": 4,
-					"file": "lib/index.js",
+					"file": "bin/build",
 					"settings":
 					{
-						"buffer_size": 2456,
+						"buffer_size": 54,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1606,
-								1606
+								54,
+								54
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/C#/Build.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1104.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
+					"file": "src/grammar.peg",
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/index.js",
+					"settings":
+					{
+						"buffer_size": 2969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/tmp/subl stdin 1z3Qce.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
 					"file": "examples/index.js",
 					"settings":
 					{
@@ -344,6 +469,62 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "node_modules/StringScanner/lib/StringScanner.js",
+					"settings":
+					{
+						"buffer_size": 5143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3526,
+								3526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 3.0,
+						"translation.y": 1778.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "lib/parser.js",
+					"settings":
+					{
+						"buffer_size": 28702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
