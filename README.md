@@ -3,10 +3,7 @@
 ## Example
 
 ```javascript
-
 var routes = crema('request -method=GET OR -method=POST authorize -> login');
-
-
 ```
 
 Output:
