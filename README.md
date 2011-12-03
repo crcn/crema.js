@@ -4,14 +4,43 @@
 
 ```javascript
 
-var channel = crema('request -method=GET authorize');
+var routes = crema('request -method=GET OR -method=POST authorize -> login');
 
-console.log(channel.type); //request
-console.log(channel.tags.method); //GET
-console.log(channel.route.paths[0]); //authorize
 
 ```
 
+Output:
+
+```javascript
+[
+  {
+    "type": "request",
+    "tags": {
+      "method": "get"
+    },
+    "channel": {
+      "value": "login",
+      "paths": [
+        {
+          "value": "login",
+          "param": false
+        }
+      ]
+    },
+    "thru": {
+      "channel": {
+        "value": "authorize",
+        "paths": [
+          {
+            "value": "authorize",
+            "param": false
+          }
+        ]
+      }
+    }
+  }
+]
+```
 
 ## Syntax
 
