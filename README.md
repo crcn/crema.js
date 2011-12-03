@@ -46,6 +46,7 @@ Output:
 
 ```javascript
 crema('type -tag=value route OR route2');
+```
 
 
 ## Use Cases
