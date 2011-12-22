@@ -40,22 +40,6 @@
 			}
 		},
 		{
-			"file": "bin/build",
-			"settings":
-			{
-				"buffer_size": 54,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/grammar.peg",
-			"settings":
-			{
-				"buffer_size": 659,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "lib/index.js",
 			"settings":
 			{
@@ -64,7 +48,7 @@
 			}
 		},
 		{
-			"file": "/tmp/subl stdin 1z3Qce.txt",
+			"file": "/tmp/subl stdin tgitPW.txt",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -75,23 +59,7 @@
 			"file": "examples/index.js",
 			"settings":
 			{
-				"buffer_size": 231,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "node_modules/StringScanner/lib/StringScanner.js",
-			"settings":
-			{
-				"buffer_size": 5143,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/parser.js",
-			"settings":
-			{
-				"buffer_size": 28702,
+				"buffer_size": 236,
 				"line_ending": "Unix"
 			}
 		}
@@ -176,10 +144,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"channel",
-			".scan",
-			"splitOr",
-			"parseChannel",
 			"auth/token",
 			"_pass",
 			"auth/token",
@@ -231,7 +195,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -326,8 +290,8 @@
 						"selection":
 						[
 							[
-								171,
-								171
+								0,
+								0
 							]
 						],
 						"settings":
@@ -344,58 +308,6 @@
 				},
 				{
 					"buffer": 4,
-					"file": "bin/build",
-					"settings":
-					{
-						"buffer_size": 54,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								54,
-								54
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C#/Build.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/grammar.peg",
-					"settings":
-					{
-						"buffer_size": 659,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "lib/index.js",
 					"settings":
 					{
@@ -406,8 +318,8 @@
 						"selection":
 						[
 							[
-								69,
-								69
+								0,
+								0
 							]
 						],
 						"settings":
@@ -416,14 +328,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1111.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/tmp/subl stdin 1z3Qce.txt",
+					"buffer": 5,
+					"file": "/tmp/subl stdin tgitPW.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -448,65 +360,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 6,
 					"file": "examples/index.js",
 					"settings":
 					{
-						"buffer_size": 231,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								153,
-								153
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "node_modules/StringScanner/lib/StringScanner.js",
-					"settings":
-					{
-						"buffer_size": 5143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3526,
-								3526
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 3.0,
-						"translation.y": 1778.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "lib/parser.js",
-					"settings":
-					{
-						"buffer_size": 28702,
+						"buffer_size": 236,
 						"regions":
 						{
 						},
@@ -519,12 +377,10 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
