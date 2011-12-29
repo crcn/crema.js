@@ -35,7 +35,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 254,
+				"buffer_size": 267,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,15 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 2969,
+				"buffer_size": 3053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin Fr7tha.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +67,7 @@
 			"file": "examples/index.js",
 			"settings":
 			{
-				"buffer_size": 236,
+				"buffer_size": 271,
 				"line_ending": "Unix"
 			}
 		}
@@ -144,6 +152,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"console.l",
 			"auth/token",
 			"_pass",
 			"auth/token",
@@ -283,7 +292,7 @@
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 254,
+						"buffer_size": 267,
 						"regions":
 						{
 						},
@@ -297,7 +306,7 @@
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -311,7 +320,7 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 2969,
+						"buffer_size": 3053,
 						"regions":
 						{
 						},
@@ -328,14 +337,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1111.0,
+						"translation.y": 750.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "/tmp/subl stdin tgitPW.txt",
+					"file": "/tmp/subl stdin Fr7tha.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -361,10 +370,10 @@
 				},
 				{
 					"buffer": 6,
-					"file": "examples/index.js",
+					"file": "/tmp/subl stdin tgitPW.txt",
 					"settings":
 					{
-						"buffer_size": 236,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -373,6 +382,32 @@
 							[
 								0,
 								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "examples/index.js",
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
 							]
 						],
 						"settings":
