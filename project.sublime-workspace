@@ -43,7 +43,15 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 3053,
+				"buffer_size": 3197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin nW4joL.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +75,7 @@
 			"file": "examples/index.js",
 			"settings":
 			{
-				"buffer_size": 271,
+				"buffer_size": 273,
 				"line_ending": "Unix"
 			}
 		}
@@ -152,6 +160,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"parseRouteChannels",
 			"console.l",
 			"auth/token",
 			"_pass",
@@ -204,7 +213,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -320,15 +329,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 3053,
+						"buffer_size": 3197,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2095,
+								2095
 							]
 						],
 						"settings":
@@ -337,14 +346,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 750.0,
+						"translation.y": 765.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "/tmp/subl stdin Fr7tha.txt",
+					"file": "/tmp/subl stdin nW4joL.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -370,7 +379,7 @@
 				},
 				{
 					"buffer": 6,
-					"file": "/tmp/subl stdin tgitPW.txt",
+					"file": "/tmp/subl stdin Fr7tha.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -396,18 +405,44 @@
 				},
 				{
 					"buffer": 7,
-					"file": "examples/index.js",
+					"file": "/tmp/subl stdin tgitPW.txt",
 					"settings":
 					{
-						"buffer_size": 271,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								185,
-								185
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "examples/index.js",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
 							]
 						],
 						"settings":
