@@ -40,14 +40,6 @@
 			}
 		},
 		{
-			"file": "lib/index.js",
-			"settings":
-			{
-				"buffer_size": 3197,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/tmp/subl stdin nW4joL.txt",
 			"settings":
 			{
@@ -78,6 +70,46 @@
 				"buffer_size": 273,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/tmp/subl stdin hp0nfB.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin yyjbcr.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/index.js",
+			"settings":
+			{
+				"buffer_size": 3201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin GKpLMg.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin MsPtw9.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -104,6 +136,7 @@
 	},
 	"file_history":
 	[
+		"/Users/craig/Dropbox/Developer/Public/crema/lib/index.js",
 		"/Volumes/minimac/Users/craig/Dropbox/Developer/Public/haba/examples/test1/plugins/hello1.js",
 		"/Volumes/minimac/Users/craig/Dropbox/Developer/Public/haba/lib/plugins/remote.js",
 		"/Volumes/minimac/Users/craig/Dropbox/Developer/Public/haba/lib/queue.js",
@@ -160,6 +193,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"parseRoute",
+			"paths",
 			"parseRouteChannels",
 			"console.l",
 			"auth/token",
@@ -213,7 +248,6 @@
 	"groups":
 	[
 		{
-			"selected": 8,
 			"sheets":
 			[
 				{
@@ -326,33 +360,6 @@
 				},
 				{
 					"buffer": 4,
-					"file": "lib/index.js",
-					"settings":
-					{
-						"buffer_size": 3197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2095,
-								2095
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 765.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "/tmp/subl stdin nW4joL.txt",
 					"settings":
 					{
@@ -378,7 +385,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "/tmp/subl stdin Fr7tha.txt",
 					"settings":
 					{
@@ -404,7 +411,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "/tmp/subl stdin tgitPW.txt",
 					"settings":
 					{
@@ -430,7 +437,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "examples/index.js",
 					"settings":
 					{
@@ -448,6 +455,137 @@
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/tmp/subl stdin hp0nfB.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/tmp/subl stdin yyjbcr.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "lib/index.js",
+					"settings":
+					{
+						"buffer_size": 3201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3125,
+								3125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1577.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/tmp/subl stdin GKpLMg.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/tmp/subl stdin MsPtw9.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
