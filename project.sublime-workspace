@@ -16,10 +16,13 @@
 			}
 		},
 		{
+			"contents": " \n\n## Example\n\n```javascript\nvar routes = crema('request -method=GET OR -method=POST authorize -> login');\n```\n\nOutput:\n\n```javascript\n[\n  {\n    \"type\": \"request\",\n    \"tags\": {\n      \"method\": \"get\"\n    },\n    \"channel\": {\n      \"value\": \"login\",\n      \"paths\": [\n        {\n          \"value\": \"login\",\n          \"param\": false\n        }\n      ]\n    },\n    \"thru\": {\n      \"channel\": {\n        \"value\": \"authorize\",\n        \"paths\": [\n          {\n            \"value\": \"authorize\",\n            \"param\": false\n          }\n        ]\n      }\n    }\n  }\n]\n```\n\n## Syntax\n\n```javascript\ncrema('type -tag=value route OR route2');\n```\n\n## Custom Grammar \n\n\n## Use Cases\n\n- [beanpole](beanpole)\n- [dolce](dolce)\n",
 			"file": "README.md",
+			"file_size": 682,
+			"file_write_time": 1322893855000000,
 			"settings":
 			{
-				"buffer_size": 682,
+				"buffer_size": 702,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,12 +102,20 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 3857,
+				"buffer_size": 4269,
 				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "/tmp/subl stdin tcOHfg.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin hfcTkY.txt",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -241,6 +252,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"fixRoute",
+			"parseRoute",
+			"expressions",
+			"parseRoute",
+			"parseSource",
 			"[0] =",
 			"parseChannel",
 			"parseRoute",
@@ -298,7 +314,7 @@
 	"groups":
 	[
 		{
-			"selected": 12,
+			"selected": 11,
 			"sheets":
 			[
 				{
@@ -332,15 +348,15 @@
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 682,
+						"buffer_size": 702,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2,
-								2
+								645,
+								645
 							]
 						],
 						"settings":
@@ -596,15 +612,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 3857,
+						"buffer_size": 4269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3007,
-								3007
+								3264,
+								3264
 							]
 						],
 						"settings":
@@ -613,7 +629,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1964.0,
+						"translation.y": 2177.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -646,7 +662,7 @@
 				},
 				{
 					"buffer": 13,
-					"file": "/tmp/subl stdin Y7mmqh.txt",
+					"file": "/tmp/subl stdin hfcTkY.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -672,7 +688,7 @@
 				},
 				{
 					"buffer": 14,
-					"file": "/tmp/subl stdin 2eFiVi.txt",
+					"file": "/tmp/subl stdin Y7mmqh.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -698,7 +714,7 @@
 				},
 				{
 					"buffer": 15,
-					"file": "/tmp/subl stdin OQeVhm.txt",
+					"file": "/tmp/subl stdin 2eFiVi.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -724,7 +740,7 @@
 				},
 				{
 					"buffer": 16,
-					"file": "/tmp/subl stdin GKpLMg.txt",
+					"file": "/tmp/subl stdin OQeVhm.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -750,7 +766,7 @@
 				},
 				{
 					"buffer": 17,
-					"file": "/tmp/subl stdin MsPtw9.txt",
+					"file": "/tmp/subl stdin GKpLMg.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -776,6 +792,32 @@
 				},
 				{
 					"buffer": 18,
+					"file": "/tmp/subl stdin MsPtw9.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
 					"file": "/tmp/subl stdin 1tiL9r.txt",
 					"settings":
 					{
