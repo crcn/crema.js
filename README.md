@@ -15,9 +15,9 @@ Output:
     "tags": {
       "method": "get"
     },
-    "channel": {
+    "path": {
       "value": "login",
-      "paths": [
+      "segments": [
         {
           "value": "login",
           "param": false
@@ -25,9 +25,9 @@ Output:
       ]
     },
     "thru": {
-      "channel": {
+      "path": {
         "value": "authorize",
-        "paths": [
+        "segments": [
           {
             "value": "authorize",
             "param": false
@@ -44,6 +44,8 @@ Output:
 ```javascript
 crema('type -tag=value route OR route2');
 ```
+
+## Custom Grammar 
 
 
 ## Use Cases
