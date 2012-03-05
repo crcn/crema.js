@@ -107,7 +107,23 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 4076,
+				"buffer_size": 4084,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin av4XKd.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin ykJvBH.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -115,7 +131,7 @@
 			"file": "/Users/craig/Dropbox/Developer/Public/dolce/project.sublime-workspace",
 			"settings":
 			{
-				"buffer_size": 53729,
+				"buffer_size": 54270,
 				"line_ending": "Unix"
 			}
 		},
@@ -678,15 +694,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 4076,
+						"buffer_size": 4084,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3291,
-								3291
+								3348,
+								3348
 							]
 						],
 						"settings":
@@ -695,17 +711,17 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1951.0,
+						"translation.y": 1981.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 13,
-					"file": "/Users/craig/Dropbox/Developer/Public/dolce/project.sublime-workspace",
+					"file": "/tmp/subl stdin av4XKd.txt",
 					"settings":
 					{
-						"buffer_size": 53729,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -718,8 +734,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -729,7 +744,7 @@
 				},
 				{
 					"buffer": 14,
-					"file": "/tmp/subl stdin tcDkHC.txt",
+					"file": "/tmp/subl stdin ykJvBH.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -755,10 +770,10 @@
 				},
 				{
 					"buffer": 15,
-					"file": "/tmp/subl stdin tcOHfg.txt",
+					"file": "/Users/craig/Dropbox/Developer/Public/dolce/project.sublime-workspace",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 54270,
 						"regions":
 						{
 						},
@@ -771,7 +786,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -781,7 +797,7 @@
 				},
 				{
 					"buffer": 16,
-					"file": "/tmp/subl stdin hfcTkY.txt",
+					"file": "/tmp/subl stdin tcDkHC.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -807,7 +823,7 @@
 				},
 				{
 					"buffer": 17,
-					"file": "/tmp/subl stdin Y7mmqh.txt",
+					"file": "/tmp/subl stdin tcOHfg.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -833,7 +849,7 @@
 				},
 				{
 					"buffer": 18,
-					"file": "/tmp/subl stdin 2eFiVi.txt",
+					"file": "/tmp/subl stdin hfcTkY.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -859,7 +875,7 @@
 				},
 				{
 					"buffer": 19,
-					"file": "/tmp/subl stdin OQeVhm.txt",
+					"file": "/tmp/subl stdin Y7mmqh.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -885,7 +901,7 @@
 				},
 				{
 					"buffer": 20,
-					"file": "/tmp/subl stdin GKpLMg.txt",
+					"file": "/tmp/subl stdin 2eFiVi.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -911,7 +927,7 @@
 				},
 				{
 					"buffer": 21,
-					"file": "/tmp/subl stdin MsPtw9.txt",
+					"file": "/tmp/subl stdin OQeVhm.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -937,7 +953,7 @@
 				},
 				{
 					"buffer": 22,
-					"file": "/tmp/subl stdin 1tiL9r.txt",
+					"file": "/tmp/subl stdin GKpLMg.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -963,6 +979,58 @@
 				},
 				{
 					"buffer": 23,
+					"file": "/tmp/subl stdin MsPtw9.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/tmp/subl stdin 1tiL9r.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
 					"file": ".cupboard",
 					"settings":
 					{
@@ -988,7 +1056,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 26,
 					"file": "/tmp/subl stdin b2IKth.txt",
 					"settings":
 					{
