@@ -1,12 +1,15 @@
 {
-    "name": "crema",
-    "description": "syntactic sugar for your javascript functions",
-    "version": "0.1.3",
-    "repository": {},
-    "engines": {},
-    "dependencies": {},
-    "devDependencies": {
-        "pegjs": "0.6.2"
-    },
-    "main": "./lib/index.js"
+  "name": "crema",
+  "description": "syntactic sugar for your javascript functions",
+  "version": "0.1.3",
+  "repository": {},
+  "engines": {},
+  "dependencies": {
+    "strscanner": "0.0.x",
+    "StringScanner": "0.0.x"
+  },
+  "devDependencies": {
+    "pegjs": "0.6.2"
+  },
+  "main": "./lib/index.js"
 }
