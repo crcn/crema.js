@@ -10,3 +10,7 @@ route = 'request -method=GET  google/goggle/giggle OR test -> test/authorize -> 
 console.log(JSON.stringify(crema(route), null, 2));
 
 
+route = "request -method=POST hello//:test(\\w+.js)/fdsdfs -> world"
+
+console.log(JSON.stringify(crema(route), null, 2));
+
