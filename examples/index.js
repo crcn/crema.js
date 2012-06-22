@@ -14,3 +14,5 @@ route = "request -method=POST hello//:test(\\w+.js(a))/fdsdfs -> world"
 
 console.log(JSON.stringify(crema(route), null, 2));
 
+route = "request /";
+console.log(JSON.stringify(crema(route), null, 2));
