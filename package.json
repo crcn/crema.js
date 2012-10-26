@@ -5,11 +5,7 @@
     "repository": {},
     "engines": {},
     "dependencies": {
-        "strscanner": "0.0.x",
-        "StringScanner": "0.0.x"
-    },
-    "devDependencies": {
-        "pegjs": "0.6.2"
+        "strscanner": "0.0.x"
     },
     "main": "./lib/index.js"
 }
